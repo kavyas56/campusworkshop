@@ -2,6 +2,7 @@
 
 This is a todo list App designed for Worshop.
 
+ for ise students
 NOTE: Rename the gitignore file name as .gitignore after you clone the repo to you local system.
 
 ## Requirements
